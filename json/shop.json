@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "WoodLand",
+        "category" : "Plain Brown Jacket",
+        "price" : "50.25",
+        "imgSrc" : "../assets/ShopPage/img1.jpg"
+    },
+    {
+        "name" : "ColoSpan",
+        "category" : "Shirt",
+        "price" : "102.00",
+        "imgSrc" : "../assets/ShopPage/img2.jpg"
+    },
+    {
+        "name" : "Adidas",
+        "category" : "Gym Best",
+        "price" : "15.00",
+        "imgSrc" : "../assets/ShopPage/img3.jpg"
+    },
+    {
+        "name" : "Lamio",
+        "category" : "Crimson dress",
+        "price" : "23.75",
+        "imgSrc" : "../assets/ShopPage/img4.jpg"
+    },
+    {
+        "name" : "Aminobo",
+        "category" : "Plain White",
+        "price" : "50.00",
+        "imgSrc" : "../assets/ShopPage/img5.jpg"
+    },
+    {
+        "name" : "Nike",
+        "category" : "Red Gym Outfit",
+        "price" : "200.50",
+        "imgSrc" : "../assets/ShopPage/img6.jpeg"
+    },
+    {
+        "name" : "ColoSpan",
+        "category" : "Exclusive Black Gown",
+        "price" : "5.50",
+        "imgSrc" : "../assets/ShopPage/img7.jpg"
+    },
+    {
+        "name" : "Lavis",
+        "category" : "Custom Designed",
+        "price" : "25.00",
+        "imgSrc" : "../assets/ShopPage/img8.jpg"
+    }
+]
